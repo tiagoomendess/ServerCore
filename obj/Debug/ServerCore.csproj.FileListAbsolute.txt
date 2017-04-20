@@ -1,0 +1,9 @@
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\bin\Debug\ServerCore.dll
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\bin\Debug\ServerCore.pdb
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\bin\Debug\GTANetworkServer.exe
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\bin\Debug\GTANetworkShared.dll
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\obj\Debug\ServerCore.csprojResolveAssemblyReference.cache
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\obj\Debug\ServerCore.dll
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\obj\Debug\ServerCore.pdb
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\bin\Debug\MySql.Data.dll
+C:\Users\kryfo\Desktop\GTASERVER\resources\ServerCore\bin\Debug\MySql.Data.xml

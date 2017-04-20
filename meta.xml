@@ -1,0 +1,11 @@
+﻿<meta>
+  <info name="ServerCore" description="Handles the main server functions." author="iamkryfor" version="1.0"></info>
+  <script src="Events.cs" type="server" lang="csharp" />
+  <script src="Commands.cs" type="server" lang="csharp" />
+  <script src="ServerCore.cs" type="server" lang="csharp" />
+  <script src="MysqlConnection.cs" type="server" lang="csharp" />
+  <export function="executeQuery" class="ServerCore" />
+  <config src="database.xml" type="server" />
+  <assembly ref="MySql.Data.dll" />
+  <assembly ref="System.Data.dll" />
+</meta> 
